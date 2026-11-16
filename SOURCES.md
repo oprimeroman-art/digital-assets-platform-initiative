@@ -51,3 +51,9 @@
 36. Envato Market — семь специализированных площадок и единая учётная запись: https://help.market.envato.com/hc/en-us/articles/203039074-Envato-Market-sites
 37. Envato Market — независимые авторы, товары и лицензии: https://help.market.envato.com/hc/en-us/articles/62073696406041-About-Envato-Market-Buying-Themes-Templates-Code-from-Independent-Authors
 38. ThemeForest — устройство маркетплейса веб-шаблонов: https://themeforest.net/help/getting_started
+
+39. Указ Президента РФ от 07.05.2024 № 309 «О национальных целях развития Российской Федерации на период до 2030 года и на перспективу до 2036 года»: https://publication.pravo.gov.ru/document/0001202405070015
+40. Национальный проект «Экономика данных и цифровая трансформация государства» (официальные материалы Правительства РФ): https://static.government.ru/media/files/Mfmc7JI8A90E7KVfowedDeshpshSGNYt.pdf
+41. Федеральный закон от 08.08.2024 № 330-ФЗ «О развитии креативных (творческих) индустрий в Российской Федерации»: https://publication.pravo.gov.ru/document/0001202408080136
+42. Распоряжение Правительства РФ от 20.09.2021 № 2613-р «Об утверждении Концепции развития креативных (творческих) индустрий и механизмов осуществления их государственной поддержки до 2030 года»: https://publication.pravo.gov.ru/Document/View/0001202109270012
+43. Федеральный закон от 31.07.2025 № 289-ФЗ «Об отдельных вопросах регулирования платформенной экономики в Российской Федерации»: https://publication.pravo.gov.ru/document/0001202507310020
